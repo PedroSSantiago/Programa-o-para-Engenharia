@@ -1,12 +1,12 @@
-# Repositório da Disciplina de Programação para Engenharias
+# 🚀 Repositório da Disciplina de Programação para Engenharias 🛠️
 
 Este repositório contém os materiais e projetos relacionados à disciplina de Programação para Engenharias ministrada pelo Professor Giovani.
 
-## Sobre a Disciplina
+## 📚 Sobre a Disciplina
 
 A disciplina de Programação para Engenharias tem como objetivo fornecer aos estudantes uma base sólida em programação, com foco em aplicações práticas relevantes para diversas áreas da engenharia. Durante o curso, os alunos terão a oportunidade de aprender conceitos fundamentais de programação e aplicá-los em projetos práticos.
 
-## Conteúdo
+## 📁 Conteúdo
 
 O conteúdo deste repositório inclui:
 
@@ -15,7 +15,7 @@ O conteúdo deste repositório inclui:
 - **Exercícios**: Conjunto de exercícios para praticar os conceitos aprendidos em sala de aula.
 - **Referências**: Links úteis, bibliografia recomendada e recursos adicionais para aprofundamento.
 
-## Como Contribuir
+## 🤝 Como Contribuir
 
 Se você é um estudante da disciplina e deseja contribuir com este repositório, sinta-se à vontade para:
 
@@ -31,9 +31,11 @@ Para contribuir, siga estas etapas:
 4. Faça push para a branch (`git push origin feature/nome-da-sua-contribuicao`).
 5. Abra um Pull Request.
 
-## Contato
+## 📞 Contato
 
 Se você tiver dúvidas sobre os materiais ou precisar de assistência adicional, entre em contato com o Professor Giovani.
 
 - Professor: [Nome do Professor Giovani](link para o perfil do Professor Giovani)
+  
+
 
