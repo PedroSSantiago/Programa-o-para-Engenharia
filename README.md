@@ -31,11 +31,6 @@ Para contribuir, siga estas etapas:
 4. Faça push para a branch (`git push origin feature/nome-da-sua-contribuicao`).
 5. Abra um Pull Request.
 
-## 📞 Contato
-
-Se você tiver dúvidas sobre os materiais ou precisar de assistência adicional, entre em contato com o Professor Giovani.
-
-- Professor: [Nome do Professor Giovani](link para o perfil do Professor Giovani)
   
 
 
